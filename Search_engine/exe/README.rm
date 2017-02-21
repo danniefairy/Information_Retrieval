@@ -1,0 +1,4 @@
+簡體斷句:全自动安装：easy_install jieba 或者 pip install jieba / pip3 install jieba
+繁簡體轉換:pip install hanziconv
+DropBox: https://www.dropbox.com/s/j0yjwdifpueswmj/source.rar?dl=0
+
